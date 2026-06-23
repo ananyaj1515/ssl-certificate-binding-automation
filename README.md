@@ -20,6 +20,4 @@ Steps demonstrated:
 -NewThumbprint {CertThumbprint} -OldThumbprint {OldCertThumbprint}
 ```
 
--NewThumbprint {CertThumbprint} -OldThumbprint {OldCertThumbprint}
-
 *Result*: Configuration completed successfully up to the validation step, confirming the script hook and parameter substitution were correctly set up. In production with a real domain, validation would succeed automatically and trigger the script exactly as configured here
