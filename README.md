@@ -1,8 +1,8 @@
 Presentation: https://docs.google.com/presentation/d/1zzcCbEYrDiBCWtw_o1lc28PmNVYwxb6gffj2qNaPJKU/edit?usp=sharing
 
 
-Steps for WIN-ACME set up with binding script injection
-https://github.com/user-attachments/assets/4032e556-3542-4d8b-bc6c-fb0ff8360fe5
+Steps for WIN-ACME set up with binding script injection. [![Watch the demo](https://github.com/user-attachments/assets/4032e556-3542-4d8b-bc6c-fb0ff8360fe5)](https://github.com/user-attachments/assets/4032e556-3542-4d8b-bc6c-fb0ff8360fe5)
+
 
 *Note*: As this was an investigation, the demo uses `localhost`, which Let's Encrypt cannot validate. A real public domain is required for successful certificate issuance. The configuration steps and script remain identical in a production environment; only domain validation differs.
 Steps demonstrated:
